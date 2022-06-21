@@ -1,6 +1,5 @@
 public class TestJava {
   public static void main(String args[]){
-    System.out.println("First file on GIT hub");
-    System.out.println("Second change: branch psk2");
+    System.out.println("Merged changes from 2nd contributor");
   }
 }
